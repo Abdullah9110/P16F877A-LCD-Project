@@ -1,0 +1,98 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Sun Feb 12 18:21:57 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000004    program   0x0002fe
+.config_2007_LCD_APPLICATION.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000001      
+                            0x000004    0x000182      
+                            0x002007    0x002007      
+            386 out of 8454 program addresses used, program memory utilization is 4%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      EOI   0x00001e    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     cont   0x00005e    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                      dis   0x000072    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  disLoop   0x000076    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  display   0x000075    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                endString   0x000069    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     inid   0x000149    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                  inidOff   0x000164    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                     init   0x00001f    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  initMes   0x000102    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  initVar   0x00002f    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     loop   0x0000f4    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop1   0x00012b    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                    loop6   0x0000c7    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop7   0x0000ae    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop8   0x000092    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop9   0x00007a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loopX   0x000130    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                 nextChar   0x00004a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                   noZero   0x000057    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    onems   0x000129    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                  pressed   0x00004d    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                printWord   0x0000f2    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                   pulseE   0x000134    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                    retur   0x000074    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     send   0x000139    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                     skip   0x000014    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  spaceCh   0x00005c    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    start   0x000049    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     term   0x00006a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                      xms   0x00012f    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                     zero   0x000054    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     skip   0x000014    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                      EOI   0x00001e    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     init   0x00001f    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  initVar   0x00002f    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    start   0x000049    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                 nextChar   0x00004a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  pressed   0x00004d    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     zero   0x000054    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                   noZero   0x000057    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  spaceCh   0x00005c    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     cont   0x00005e    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                endString   0x000069    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     term   0x00006a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                      dis   0x000072    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    retur   0x000074    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  display   0x000075    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  disLoop   0x000076    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop9   0x00007a    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop8   0x000092    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop7   0x0000ae    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    loop6   0x0000c7    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                printWord   0x0000f2    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                     loop   0x0000f4    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                  initMes   0x000102    program     static D:\College\New folder\PROJECT4-final\LCD_Application.ASM
+                    onems   0x000129    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                    loop1   0x00012b    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                      xms   0x00012f    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                    loopX   0x000130    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                   pulseE   0x000134    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                     send   0x000139    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                     inid   0x000149    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+                  inidOff   0x000164    program     static D:\College\New folder\PROJECT4-final\LCDIS.INC
+
+

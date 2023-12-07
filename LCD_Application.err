@@ -1,0 +1,17 @@
+Warning[205] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 13 : Found directive in column 1. (CBLOCK)
+Warning[205] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 19 : Found directive in column 1. (ENDC)
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 33 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 47 : Using default destination of 1 (file).
+Message[302] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 65 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 68 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 72 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 120 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 189 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 204 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 226 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCD_APPLICATION.ASM 271 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCDIS.INC 26 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCDIS.INC 36 : Using default destination of 1 (file).
+Message[305] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCDIS.INC 61 : Using default destination of 1 (file).
+Warning[202] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCDIS.INC 133 : Argument out of range.  Least significant bits used.
+Warning[202] D:\COLLEGE\NEW FOLDER\PROJECT4-FINAL\LCDIS.INC 135 : Argument out of range.  Least significant bits used.
